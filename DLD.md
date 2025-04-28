@@ -140,3 +140,63 @@
 - **Focus on Speed:** Improve the ability to solve problems in less time with increasing complexity.
 - **Error Tracking:** Continue focusing on mistakes and weaknesses throughout each section.
 - **GATE Strategy:** Apply the learned concepts directly to GATE-style questions to ensure the final exam prep is smooth.
+
+# DLD Combat Syllabus Map for GATE 2026
+
+Here’s a detailed **Digital Logic Design (DLD)** Combat Syllabus Map for **GATE 2026**. The map integrates the core concepts of Digital Logic Design, highlighting important topics, deep dive areas, GATE strategies, and real-world applications. This structured approach ensures high efficiency, optimized for both GATE 2026 and real-world systems engineering mastery.
+
+---
+
+## DLD Combat Syllabus Map for GATE 2026
+
+| **Phase** | **Week** | **Day** | **Topic** | **Sub-Topics** | **Deep Dive Focus** | **GATE Strategy** |
+|-----------|----------|---------|-----------|----------------|---------------------|-------------------|
+| **Phase 1** | **Core Concept Learning** | **Week 1** | **Combinational Logic** | | | |
+| | | Day 1 | Basic Logic Gates | AND, OR, NOT, NAND, NOR, XOR, XNOR | Truth tables, Gate construction, Logic simplification | Practice implementing basic gates in circuits |
+| | | Day 2 | Boolean Algebra | Simplification, Laws (De Morgan, Absorption, Distribution), Duality | Apply Boolean algebra to simplify expressions | Solve circuit simplifications, focus on minimal expression derivation |
+| | | Day 3 | SOP & POS Forms | Sum of Products (SOP), Product of Sums (POS), Karnaugh Maps | Derive SOP and POS expressions from truth tables | Master truth table to expression conversion for complex circuits |
+| | | Day 4 | Karnaugh Maps | 2-variable, 3-variable, 4-variable K-map | Grouping minterms/maxterms for simplification | Focus on minimizing logic expressions using K-map optimization |
+| | | Day 5 | Combinational Circuits | Adders, Subtractors, Multiplexers, Decoders, Encoders | Implement adder circuits, understand encoder/decoder function | Build circuits, practice converting between truth tables and logic gates |
+| | | Day 6 | GATE Practice Problems | Logic Gates & Boolean Algebra | Solve GATE-level problems with Boolean simplifications and Karnaugh Maps | Focus on speed and efficiency for circuit design problems |
+| **Week 2** | **Sequential Logic** | | | | | |
+| | | Day 1 | Latches & Flip-Flops | SR Latch, D Latch, JK Flip-Flop, T Flip-Flop | Understand characteristic equations and excitation tables | Focus on flip-flop types, characteristics, and their applications in state machines |
+| | | Day 2 | State Machines | Mealy Machine, Moore Machine, State Transition Diagrams | Design state machines using flip-flops | Practice designing FSMs for various applications, like traffic lights |
+| | | Day 3 | Registers & Counters | Shift Registers, Universal Shift Register, Up/Down Counters, Modulo Counters | Design and implement basic counters | Solve problems related to counters and shift registers in digital circuits |
+| | | Day 4 | Asynchronous Sequential Circuits | Race Conditions, Hazards, Timing Issues | Apply timing analysis and hazard removal techniques | Focus on sequential circuit design for real-world applications |
+| | | Day 5 | Timing & Clocking | Setup and Hold Times, Clock Skew, Timing Diagrams | Analyze clocking issues in sequential circuits | Solve problems related to clocking issues in sequential circuits |
+| | | Day 6 | GATE Practice Problems | Sequential Logic | Solve GATE-level problems on flip-flops, counters, and state machines | Focus on time management and precision in solving sequential circuits |
+| **Week 3** | **Advanced Combinational Circuits** | | | | | |
+| | | Day 1 | Multiplexers & Demultiplexers | 4-to-1 MUX, 1-to-4 DEMUX | Design MUX/DEMUX-based circuits | Practice MUX/DEMUX design problems, particularly for data routing |
+| | | Day 2 | Arithmetic Circuits | Binary Adders, Subtractors, Multipliers, Dividers | Design circuits for fast arithmetic operations | Focus on implementing full and half adders in combinational circuits |
+| | | Day 3 | Code Converters | BCD to Binary, Binary to Gray, Gray to Binary | Practice designing code conversion circuits | Work on practical problems involving different types of code conversions |
+| | | Day 4 | Parity Generators & Checkers | Odd, Even Parity Generation | Design parity generation circuits | Focus on error-detection circuits used in communication protocols |
+| | | Day 5 | GATE Practice Problems | Advanced Combinational Circuits | Solve complex problems involving MUX, arithmetic circuits, and code converters | Focus on solving under time pressure, optimize approach for large problems |
+| **Week 4** | **Advanced Sequential Circuits** | | | | | |
+| | | Day 1 | Synchronous vs Asynchronous Design | State Diagrams, Timing Diagrams | Analyze and design both synchronous and asynchronous circuits | Solve problems comparing the two designs for different applications |
+| | | Day 2 | Finite State Machines (FSM) | Design and Optimization of FSMs, State Minimization | Focus on FSM design techniques and minimization methods | Master state machine design and minimization, practice optimization |
+| | | Day 3 | Timing & Clocking in Sequential Circuits | Critical Path, Clock Cycles, Hold/Setup Violations | Study clocking issues in large-scale sequential circuits | Work through GATE problems involving setup and timing violations |
+| | | Day 4 | Memory Units | RAM, ROM, EEPROM, Flash Memory | Design and implement basic memory units | Focus on designing memory circuits and their use in systems like caches |
+| | | Day 5 | GATE Practice Problems | Sequential Circuits & Timing | Solve problems related to FSM design, memory units, and timing issues | Practice managing complexity in sequential logic problems |
+| **Week 5** | **Digital System Design & Optimization** | | | | | |
+| | | Day 1 | PLDs: PAL, PLA, FPGA | Programmable Logic Devices (PLD), Logic Synthesis | Design simple circuits using PLDs | Practice writing minimal logic for FPGA/PLD applications |
+| | | Day 2 | Hazard-Free Design | Static and Dynamic Hazards, Hazard-Free Design | Work on designing circuits without hazards | Master designing hazard-free circuits for reliable systems |
+| | | Day 3 | Digital System Optimization | Boolean Minimization, Power Consumption, Delay Reduction | Apply techniques to reduce delay and power in digital systems | Focus on optimizing circuit designs for real-world applications |
+| | | Day 4 | VHDL/Verilog Basics | Hardware Description Languages, Synthesis, Simulation | Learn the basics of digital design using VHDL/Verilog | Practice writing code for combinational and sequential circuits |
+| | | Day 5 | GATE Practice Problems | System Design & Optimization | Solve problems involving PLDs, system design, and optimization | Solve problems focusing on high-performance digital systems |
+| **Week 6** | **Mock Tests, Final Review, Execution** | | | | | |
+| | | Day 1 | Mock Test 1 | Full-Length Timed Practice Test | Complete a full-length test covering all topics | Focus on time management and strategy |
+| | | Day 2 | Review Mock Test 1 | Focus on Weak Areas | Review missed questions and refine solutions | Identify weaknesses and target improvement areas |
+| | | Day 3 | Mock Test 2 | Advanced Topics Focus (FSMs, Optimization) | Timed test focusing on complex sequential circuits and optimization | Sharpen skills in dealing with advanced topics under time pressure |
+| | | Day 4 | Review Mock Test 2 | Focus on Problem Solving Speed | Fine-tune problem-solving approaches | Optimize approaches for faster problem-solving and accuracy |
+| | | Day 5 | Rapid Drill | Timed Practice for Fast Problem Solving | Solve timed problems under pressure | Refine speed and accuracy in solving large circuit design problems |
+| | | Day 6 | Final Full-Length Mock Test | Simulate Real GATE Conditions | Complete a timed final mock test | Assess stamina and speed, apply strategies learned throughout the course |
+| | | Day 7 | Final Review & Exam Prep | Review Key Concepts & Exam Strategies | Prepare mentally for the exam | Focus on high-yield topics and exam strategies for success |
+
+---
+
+## Key Enhancements:
+- **Detailed Core Learning**: Focus on both basic concepts and advanced topics, ensuring full coverage of both combinational and sequential circuits.
+- **Real-World Application**: Emphasis on optimization techniques, digital system design, and the use of HDLs like VHDL/Verilog for real-world implementation.
+- **GATE-Optimized Strategy**: A structured approach with specific weekly goals designed to build problem-solving speed and accuracy.
+
+This structured syllabus ensures you gain mastery in **Digital Logic Design**, not just for **GATE 2026** but for real-world applications in hardware and embedded system design.
