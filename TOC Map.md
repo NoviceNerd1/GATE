@@ -1,3 +1,143 @@
+# **TOC Combat Syllabus Map for GATE 2026**
+
+## **Overview:**
+This syllabus map is designed to guide your preparation for the Theory of Computation (TOC) section of the GATE 2026 exam. It focuses on conceptual understanding, practical problem-solving, and advanced topics integration. Each phase is split into detailed weekly plans that focus on key areas with corresponding tasks and activities.
+
+---
+
+## **Phase 1: Core Concept Learning (Weeks 1–3)**
+
+### **Goal:** Develop a strong theoretical base in TOC, covering automata, languages, and formal systems. Ensure that the foundations are solid before moving on to more advanced topics.
+
+---
+
+### **Week 1: Automata Theory & Regular Languages**
+
+| Day | Topics to Cover                                | Action & Tasks                                                         | Priority | Time Spent | Completion Date | Progress % | Error Tracking                      | Status |
+| --- | ---------------------------------------------- | ---------------------------------------------------------------------- | -------- | ---------- | --------------- | ---------- | ------------------------------------ | ------ |
+| 1   | **Finite Automata (DFA & NFA)**                | Study the formal definition, construction, and properties of DFAs and NFAs. Work through examples and visualizations. | High     | 2 hours    | [ ]             | 10%        | Mistake in DFA construction         | [ ]    |
+| 2   | **Regular Languages & Regular Expressions**   | Learn the basic properties of regular languages and how regular expressions define them. Practice writing expressions for various languages. | High     | 2 hours    | [ ]             | 20%        | Confusion with regular expression syntax | [ ]    |
+| 3   | **Closure Properties of Regular Languages**   | Understand the closure properties like union, intersection, and complementation. Practice proving regularity using these properties. | High     | 2 hours    | [ ]             | 30%        | Mistake in applying closure properties | [ ]    |
+| 4   | **Pumping Lemma for Regular Languages**       | Study the pumping lemma and its use in proving that a language is not regular. Solve problems that require applying the pumping lemma. | High     | 2 hours    | [ ]             | 40%        | Confusion in pumping lemma application | [ ]    |
+| 5   | **GATE Practice Problems**                    | Solve problems on DFAs, NFAs, and regular expressions from previous GATE papers. Focus on error identification. | High     | 2 hours    | [ ]             | 50%        | Error in DFA/NFA equivalence questions | [ ]    |
+| 6   | **Mixed Problems: Automata & Regular Languages** | Practice mixed problems to reinforce concepts from the week. Analyze any errors and make improvements. | High     | 2 hours    | [ ]             | 60%        | Mistake in closure property problems | [ ]    |
+
+#### **End-of-Week Review:**
+- **Goal:** Review key concepts from DFA, NFA, and regular languages.
+- **Focus Areas:** Identify gaps in knowledge, especially in pumping lemma and closure properties.
+- **Action:** Revise the topics where mistakes were made, particularly the nuances of regular expressions.
+
+---
+
+### **Week 2: Context-Free Grammars & Pushdown Automata**
+
+| Day | Topics to Cover                                | Action & Tasks                                                          | Priority | Time Spent | Completion Date | Progress % | Error Tracking                      | Status |
+| --- | ---------------------------------------------- | ----------------------------------------------------------------------- | -------- | ---------- | --------------- | ---------- | ------------------------------------ | ------ |
+| 1   | **Context-Free Grammars (CFGs)**               | Study the definition, construction, and properties of CFGs. Work through derivations and examples. | High     | 2 hours    | [ ]             | 10%        | Mistake in grammar construction     | [ ]    |
+| 2   | **Pushdown Automata (PDA)**                    | Learn about PDAs and their equivalence to CFGs. Understand the push/pop operations. | High     | 2 hours    | [ ]             | 20%        | Error in PDA state transitions      | [ ]    |
+| 3   | **Equivalence of CFGs and PDAs**               | Study the equivalence between CFGs and PDAs and prove the properties of both. | High     | 2 hours    | [ ]             | 30%        | Confusion in CFG-PDA equivalence    | [ ]    |
+| 4   | **Pumping Lemma for Context-Free Languages**   | Apply the pumping lemma to context-free languages to prove non-context-freeness. | High     | 2 hours    | [ ]             | 40%        | Error in pumping lemma proofs      | [ ]    |
+| 5   | **GATE Practice Problems**                     | Solve problems on CFGs, PDAs, and pumping lemma from past GATE exams. Focus on identifying mistakes. | High     | 2 hours    | [ ]             | 50%        | Mistake in applying pumping lemma  | [ ]    |
+| 6   | **Mixed Problems: CFGs, PDAs**                 | Practice mixed problems on CFGs and PDAs, revising the concepts as needed. | High     | 2 hours    | [ ]             | 60%        | Error in PDA configuration         | [ ]    |
+
+#### **End-of-Week Review:**
+- **Goal:** Strengthen your understanding of CFGs, PDAs, and the pumping lemma.
+- **Focus Areas:** Review mistakes in pumping lemma application and PDA transitions.
+- **Action:** Solve additional practice problems to enhance speed and accuracy.
+
+---
+
+### **Week 3: Turing Machines & Decidability**
+
+| Day | Topics to Cover                                | Action & Tasks                                                          | Priority | Time Spent | Completion Date | Progress % | Error Tracking                      | Status |
+| --- | ---------------------------------------------- | ----------------------------------------------------------------------- | -------- | ---------- | --------------- | ---------- | ------------------------------------ | ------ |
+| 1   | **Turing Machines (TM) Basics**                | Study the structure of Turing machines: states, transitions, and tapes. Work through examples and visualizations. | High     | 2 hours    | [ ]             | 10%        | Confusion in TM configurations      | [ ]    |
+| 2   | **Church-Turing Thesis**                       | Understand the Church-Turing Thesis and its significance in computation theory. | High     | 2 hours    | [ ]             | 20%        | Error in thesis application         | [ ]    |
+| 3   | **Decidability and Recognizability**           | Study decidable and recognizable languages, including decision problems. | High     | 2 hours    | [ ]             | 30%        | Mistake in decidability proofs      | [ ]    |
+| 4   | **Halting Problem and Undecidability**         | Study the Halting Problem and understand its undecidability proof. Apply this to various problems. | High     | 2 hours    | [ ]             | 40%        | Confusion in undecidability proofs | [ ]    |
+| 5   | **GATE Practice Problems**                     | Solve GATE problems on Turing machines, decidability, and the Halting problem. Focus on error identification. | High     | 2 hours    | [ ]             | 50%        | Mistake in halting problem analysis | [ ]    |
+| 6   | **Mixed Problems: Turing Machines & Decidability** | Solve mixed problems on TMs, decidability, and undecidability. Review errors and correct conceptual gaps. | High     | 2 hours    | [ ]             | 60%        | Error in TM configuration          | [ ]    |
+
+#### **End-of-Week Review:**
+- **Goal:** Strengthen your understanding of Turing Machines, decidability, and the Halting problem.
+- **Focus Areas:** Revisit the undecidability proof and refine problem-solving techniques for TMs.
+- **Action:** Practice additional problems on decidability and halting problems.
+
+---
+
+## **Phase 2: Drill-based Practice & Real-World Integration (Weeks 4–6)**
+
+### **Goal:** Transition from theory to more complex problem-solving by applying TOC concepts to advanced and real-world problems.
+
+---
+
+### **Week 4: Complexity Theory & P vs NP**
+
+| Day | Topics to Cover                                | Action & Tasks                                                          | Priority | Time Spent | Completion Date | Progress % | Error Tracking                      | Status |
+| --- | ---------------------------------------------- | ----------------------------------------------------------------------- | -------- | ---------- | --------------- | ---------- | ------------------------------------ | ------ |
+| 1   | **Time Complexity: Big O, Big Omega, Big Theta** | Review and understand asymptotic notation. Solve problems on time complexity analysis. | High     | 2 hours    | [ ]             | 10%        | Confusion in time complexity analysis | [ ]    |
+| 2   | **Class P and NP**                             | Understand the definitions of classes P and NP. Solve example problems for classification. | High     | 2 hours    | [ ]             | 20%        | Error in class classification       | [ ]    |
+| 3   | **NP-Complete Problems**                       | Study NP-Complete problems, reductions, and their implications. Apply reductions to different problems. | High     | 2 hours    | [ ]             | 30%        | Mistake in NP-Complete problem reductions | [ ]    |
+| 4   | **P vs NP Problem**                            | Study the P vs NP problem and its implications in the field of computation theory. | High     | 2 hours    | [ ]             | 40%        | Confusion in P vs NP analysis       | [ ]    |
+| 5   | **GATE Practice Problems**                     | Solve GATE problems on P, NP, and NP-Complete topics. Focus on error identification and corrections. | High     | 2 hours    | [ ]             | 50%        | Error in NP-Complete problem solving | [ ]    |
+| 6   | **Mixed Problems: Complexity & P vs NP**       | Solve mixed problems on time complexity and NP, focusing on reduction and classification. | High     | 2 hours    | [ ]             | 60%        | Mistake in time complexity analysis | [ ]    |
+
+#### **End-of-Week Review:**
+- **Goal:** Master complexity theory concepts, particularly NP-Complete problems and the P vs NP problem.
+- **Focus Areas:** Review reduction techniques and ensure deep understanding of time complexity analysis.
+- **Action:** Solve problems in real-time to improve speed and accuracy.
+
+---
+
+## **Phase 3: Final Review & Advanced Application (Weeks 7–8)**
+
+### **Goal:** Sharpen your problem-solving skills under timed conditions, optimize your strategies, and ensure readiness for the final exam.
+
+---
+
+### **Week 7: Advanced Mock Tests & Strategy Optimization**
+
+| Day | Topics to Cover                                | Action & Tasks                                                          | Priority | Time Spent | Completion Date | Progress % | Error Tracking                      | Status |
+| --- | ---------------------------------------------- | ----------------------------------------------------------------------- | -------- | ---------- | --------------- | ---------- | ------------------------------------ | ------ |
+| 1   | **Mock Test 3: Full Conceptual Exam**          | Take a full mock test based on the entire TOC syllabus. Focus on timed problem-solving and error analysis. | High     | 3 hours    | [ ]             | 10%        | Mistakes in NP-Complete problem solving | [ ]    |
+| 2   | **Mock Test 4: Focused Problem Areas**         | Focus on weak areas, particularly CFGs, PDAs, and Turing Machines. Apply advanced techniques to these areas. | High     | 3 hours    | [ ]             | 20%        | Weak on PDA transitions             | [ ]    |
+| 3   | **Time Management: Practice with Time Constraints** | Simulate the actual exam environment by solving problems under strict time limits. | High     | 2 hours    | [ ]             | 30%        | Slow in graph theory problems       | [ ]    |
+| 4   | **Concept Revisions: Focus on Weak Areas**     | Revise weak areas from previous mock tests. Address mistakes and fine-tune strategies. | High     | 2 hours    | [ ]             | 40%        | Mistake in halting problem proofs   | [ ]    |
+| 5   | **GATE Practice Problems: Comprehensive Review** | Solve GATE problems covering all TOC topics to test comprehensive understanding. | High     | 2 hours    | [ ]             | 50%        | Mistake in combinatorics            | [ ]    |
+| 6   | **Mock Test Review & Strategy Session**        | Analyze mock test results, adjust strategies, and focus on areas needing improvement. | High     | 2 hours    | [ ]             | 60%        | Final review for exam readiness     | [ ]    |
+
+#### **End-of-Week Review:**
+- **Goal:** Strengthen overall strategy by analyzing mock test results and refining weak areas.
+- **Focus Areas:** Timed problem-solving, speed, and accuracy.
+- **Action:** Prepare mentally and physically for the exam.
+
+---
+
+### **Week 8: Exam Readiness & Mental Preparation**
+
+| Day | Topics to Cover                                | Action & Tasks                                                          | Priority | Time Spent | Completion Date | Progress % | Error Tracking                      | Status |
+| --- | ---------------------------------------------- | ----------------------------------------------------------------------- | -------- | ---------- | --------------- | ---------- | ------------------------------------ | ------ |
+| 1   | **Full Mock Test Simulation**                  | Take a full-length mock test under real exam conditions. Focus on accuracy and speed. | High     | 3 hours    | [ ]             | 10%        | Mistakes in NP and reductions       | [ ]    |
+| 2   | **Final Review: Key Theorems & Concepts**      | Review key flashcards and theorems for last-minute revisions. Focus on critical concepts that have caused difficulty. | High     | 2 hours    | [ ]             | 20%        | Error in proof-based questions      | [ ]    |
+| 3   | **Relaxation & Strategy Focus**                | Focus on mental preparation, relaxation, and exam strategy. Visualize success and clarify final exam strategies. | High     | 1 hour     | [ ]             | 30%        | -                                  | [ ]    |
+
+---
+
+### **Final Wrap-Up (Day Before Exam)**
+
+| Activity                                       | Action & Tasks                                          | Priority | Time Spent | Completion Date | Progress % | Error Tracking | Status |
+| --------------------------------------------- | ------------------------------------------------------- | -------- | ---------- | --------------- | ---------- | -------------- | ------ |
+| **Rest & Mental Preparation**                 | Light revision and focus on mental readiness for the exam. Do not overburden yourself. | High     | 1 hour     | [ ]             | 10%        | -              | [ ]    |
+| **Final Flashcard Review**                    | Go through final flashcards of key concepts and errors made in practice. | High     | 1 hour     | [ ]             | 20%        | -              | [ ]    |
+
+---
+
+## **Post-Exam Reflection**
+
+| Activity                                       | Action & Tasks                                          | Priority | Time Spent | Completion Date | Progress % | Error Tracking | Status |
+| --------------------------------------------- | ------------------------------------------------------- | -------- | ---------- | --------------- | ---------- | -------------- | ------ |
+| **Reflect on Exam Performance**                | Reflect on your performance, review mistakes, and analyze where improvements can be made for future exams. | High     | 1 hour     | [ ]             | 10%        | -              | [ ]    |
+
 # Theory of Computation (TOC) Combat Syllabus Map for GATE 2026
 
 To enhance this syllabus for both Top 10 GATE 2026 and Systems-Level Engineering Mastery, the following adjustments focus on advanced problem-solving, real-world integration, and time-bound practice.
